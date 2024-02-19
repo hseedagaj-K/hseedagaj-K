@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi there! I'm Jagadeesh Kolla, an aspiring Data Analyst passionate about uncovering insights from data to drive informed decision-making. With proficiency in Excel, Power BI, Python, and SQL, I thrive on transforming raw data into actionable insights. Whether it's analyzing trends, building interactive dashboards, or implementing machine learning models, I enjoy leveraging my skills to tackle complex data challenges. Let's connect and explore the fascinating world of data together!
+- **👋Hi there** I'm Jagadeesh, an aspiring Data Analyst passionate about uncovering insights from data to drive informed decision-making. With proficiency in Excel, Power BI, Python, and SQL, I thrive on 
+  transforming raw data into actionable insights. Whether it's analyzing trends, building interactive dashboards, or implementing machine learning models, I enjoy leveraging my skills to tackle complex data 
+  challenges. Let's connect and explore the fascinating world of data together!
 
 
 
